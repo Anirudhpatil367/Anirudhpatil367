@@ -13,6 +13,9 @@
 ## 🧠 LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Anirudhpatil367?theme=dark&font=Karma&ext=heatmap)
+## 🏅 LeetCode Awards
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Anirudhpatil367)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anirudhpatil367&icon=0&color=0)](https://visitcount.itsvg.in)
