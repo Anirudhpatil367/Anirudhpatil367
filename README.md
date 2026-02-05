@@ -10,6 +10,9 @@
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Anirudhpatil367&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudhpatil367&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🧠 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=heatmap)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anirudhpatil367&icon=0&color=0)](https://visitcount.itsvg.in)
